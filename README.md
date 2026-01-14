@@ -1,2 +1,1 @@
-# AWS-Config-Using-Terraform
-AWS Config is a powerful service that continuously monitors, records, and evaluates AWS resource configurations against best practices and security policies. This project helps automate compliance auditing by setting up AWS Config rules to check security best practices, such as ensuring encryption is enabled, IAM policies follow least privilege.
+AWS Config is a powerful service that continuously monitors, records, and evaluates AWS resource configurations against best practices and security policies. This project helps automate compliance auditing by setting up AWS Config rules to check security best practices, such as ensuring encryption is enabled, IAM policies follow least privilege principles, and resources are properly tagged.
